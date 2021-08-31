@@ -11,8 +11,8 @@ Message: ".$message."
 
 ";
 
-mail ("name@youremail.com" , "New Message", $email_message);
-header("location: ../mail-success.html ");
+mail ("esitega@yahoo.com" , "New Message", $email_message);
+header("tegaesi.github.io/mail-success.html");
 ?>
 
 
